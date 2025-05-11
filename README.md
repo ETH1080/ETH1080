@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ETH1080
-- 👀 I’m interested in OS dev programation
+- 👀 I’m interested in operating system developpment.
 - 🌱 I’m currently learning C and php 
 
 <!---
